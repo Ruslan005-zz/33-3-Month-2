@@ -23,6 +23,7 @@ for(var i = 0; i < teg.length; i++){
 console.log(Object.entries(object1))
 
 
+
 // DZ1.2
 var nameAge = ['name', 'john', 'lastName', 'black', 'age', '23']
 var obj = {}
