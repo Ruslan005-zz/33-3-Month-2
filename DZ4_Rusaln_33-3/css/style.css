@@ -1,0 +1,38 @@
+.all {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 300px;
+}
+.bottom {
+    width: 170px;
+    display: flex;
+    justify-content: space-between;
+    color: blue;
+    font-size: 50px;
+}
+#input2 {
+    width: 50px;
+    height: 20px;
+}
+#plus {
+    font-size: 15px;
+    background-color: #645151;
+    border-radius: 10px;
+    border: 2px solid #000;
+    color: white;
+}
+#minus {
+    font-size: 15px;
+    background-color: #645151;
+    border-radius: 10px;
+    color: white;
+}
+#reset {
+    font-size: 15px;
+    background-color: #645151;
+    border-radius: 10px;
+    color: white;
+}
