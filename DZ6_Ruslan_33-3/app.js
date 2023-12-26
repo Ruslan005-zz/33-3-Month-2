@@ -57,3 +57,8 @@ countButton.onclick = () => {
             result.innerText = "Введите месяц"
     }
 }
+window.onkeydown = (event) => {
+    if(event.code === 'Enter'){
+        createTodo()
+    }
+}
